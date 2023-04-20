@@ -25,9 +25,7 @@ public class Student {
 		this.name=name;
 		this.address=address;
 		this.branch=branch;
-		this.marks=marks;
-		
-		
+		this.marks=marks;	
 	}
 	public String getName() {
 		return name;
