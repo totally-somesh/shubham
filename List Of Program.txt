@@ -1,0 +1,10 @@
+List Of Programs :
+
+~ Prime Numbers
+~ Even / Odd Numbers
+~ Armstrong Numbers
+~ Palindrome
+~ To Find Max / Min Number
+~ To Find Square / Cubes
+~ To Convert Binary To Decimal
+~ To Find Sqaure Root / Cube Root
